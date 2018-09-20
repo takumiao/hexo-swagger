@@ -1,7 +1,7 @@
 ## Hexo Swagger
 
 Document your Swagger Specification API by hexo, with support for [OpenAPI 3.0](https://swagger.io/specification/).
-you can see example at http://localhost:4000/swagger/PetStore/
+you can see example at [https://takumiao.github.io/hexo-swagger-site/](https://takumiao.github.io/hexo-swagger-site/)
 
 ## Install
 
